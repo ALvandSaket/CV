@@ -1,0 +1,23 @@
+  body {
+    background-color: #B4C6A6;
+    font-family:system-ui;
+    align-items: center;
+  }
+
+  hr {
+    width: 10%;
+    border: none;
+    border-top: dotted 10px white;
+  }
+  h1{
+    color: #66806A;
+  }
+  h3 {
+    color: #66806A;
+  }
+  h2 {
+    color: #66806A;
+  }
+  p{
+    color: #66806A;
+  }
